@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109064464098",
+    "firebase_url": "https://gettinglocationcoordinat-f3508.firebaseio.com",
+    "project_id": "gettinglocationcoordinat-f3508",
+    "storage_bucket": "gettinglocationcoordinat-f3508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109064464098:android:58c05aae1d7685696f60bb",
+        "android_client_info": {
+          "package_name": "com.example.gettinglocationcoordinates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109064464098-mq3lru3qmdppat69nt2bpmqg2bls2rec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gettinglocationcoordinates",
+            "certificate_hash": "15f5c7d348d2be4d4a99269801d7efa5bcc4e388"
+          }
+        },
+        {
+          "client_id": "109064464098-pqjmeqecjsbuhgmcj5bbdcdvn0ecchpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdRT_1TgMxQOkU3a0OdvVmiNwusDnEjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109064464098-pqjmeqecjsbuhgmcj5bbdcdvn0ecchpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
